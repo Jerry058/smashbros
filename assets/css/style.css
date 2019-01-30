@@ -1,0 +1,21 @@
+img {
+    height: 10em;
+}
+
+body{
+    background-color: #ff7362;
+    color: black;
+    font-size: 2em;
+}
+header{
+    padding: 2%;
+}
+nav{
+    padding: 2%;
+}
+main{
+    padding: 2%;
+}
+footer{
+    padding: 2%;
+}
